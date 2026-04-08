@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "opdrachten-DEF-D",
+			"path": "../.."
+		},
+		{
+			"name": "thermolab",
+			"path": "../../../FYPLC-main (1)/FYPLC-main/studie/project/thermolab"
+		}
+	],
+	"settings": {}
+}
